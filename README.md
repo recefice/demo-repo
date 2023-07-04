@@ -10,3 +10,4 @@ Watch tutorial on YouTube!!
 
 1. Open index.html in your browser
 2. Do something
+3. Another thing
